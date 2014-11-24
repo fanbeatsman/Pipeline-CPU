@@ -114,6 +114,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(3720,1380)" to="(3760,1380)"/>
     <wire from="(3720,2340)" to="(3760,2340)"/>
     <wire from="(3990,780)" to="(3990,1190)"/>
+    <wire from="(900,50)" to="(900,2780)"/>
     <wire from="(3790,2470)" to="(3900,2470)"/>
     <wire from="(3790,1510)" to="(3900,1510)"/>
     <wire from="(3900,3710)" to="(3900,3730)"/>
@@ -130,7 +131,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(3920,4050)" to="(3920,4060)"/>
     <wire from="(1580,2340)" to="(1790,2340)"/>
     <wire from="(3860,1180)" to="(3920,1180)"/>
-    <wire from="(900,50)" to="(900,2810)"/>
     <wire from="(1150,1220)" to="(1150,3230)"/>
     <wire from="(1900,880)" to="(1900,900)"/>
     <wire from="(3720,1100)" to="(3720,1150)"/>
@@ -219,7 +219,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(3740,3940)" to="(3740,3980)"/>
     <wire from="(2030,950)" to="(2030,960)"/>
     <wire from="(1860,2370)" to="(1860,2700)"/>
-    <wire from="(910,2800)" to="(950,2800)"/>
     <wire from="(670,3260)" to="(780,3260)"/>
     <wire from="(3830,1320)" to="(3920,1320)"/>
     <wire from="(1690,800)" to="(1760,800)"/>
@@ -336,6 +335,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(3870,2300)" to="(3920,2300)"/>
     <wire from="(1140,1550)" to="(1140,3250)"/>
     <wire from="(3920,3870)" to="(3920,3880)"/>
+    <wire from="(890,2760)" to="(890,2810)"/>
     <wire from="(3860,1000)" to="(3920,1000)"/>
     <wire from="(1820,910)" to="(1850,910)"/>
     <wire from="(3860,1640)" to="(3920,1640)"/>
@@ -391,7 +391,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(2110,1350)" to="(2110,1670)"/>
     <wire from="(3790,2230)" to="(3900,2230)"/>
     <wire from="(1780,1790)" to="(1790,1790)"/>
-    <wire from="(900,2810)" to="(930,2810)"/>
     <wire from="(3750,1400)" to="(3750,1410)"/>
     <wire from="(3750,2360)" to="(3750,2370)"/>
     <wire from="(3920,3810)" to="(3920,3820)"/>
@@ -451,7 +450,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(3950,2110)" to="(3950,2310)"/>
     <wire from="(3920,3750)" to="(3920,3760)"/>
     <wire from="(3930,2550)" to="(3990,2550)"/>
-    <wire from="(920,2790)" to="(930,2790)"/>
     <wire from="(3660,1640)" to="(3720,1640)"/>
     <wire from="(3860,1520)" to="(3920,1520)"/>
     <wire from="(3860,2480)" to="(3920,2480)"/>
@@ -522,7 +520,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(3860,2420)" to="(3920,2420)"/>
     <wire from="(2130,850)" to="(2160,850)"/>
     <wire from="(1860,2170)" to="(1900,2170)"/>
-    <wire from="(920,30)" to="(920,2790)"/>
     <wire from="(1920,1180)" to="(1920,1200)"/>
     <wire from="(1550,1600)" to="(1660,1600)"/>
     <wire from="(3750,1410)" to="(3750,1460)"/>
@@ -531,6 +528,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1570,740)" to="(1570,1580)"/>
     <wire from="(1640,630)" to="(1640,1080)"/>
     <wire from="(3850,3850)" to="(3880,3850)"/>
+    <wire from="(920,30)" to="(920,2800)"/>
     <wire from="(3740,4050)" to="(3780,4050)"/>
     <wire from="(2040,860)" to="(2430,860)"/>
     <wire from="(3720,1700)" to="(3720,1730)"/>
@@ -587,6 +585,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(3900,2460)" to="(3900,2470)"/>
     <wire from="(1830,500)" to="(1850,500)"/>
     <wire from="(1760,2020)" to="(1790,2020)"/>
+    <wire from="(930,2810)" to="(940,2810)"/>
     <wire from="(1870,2280)" to="(1870,2510)"/>
     <wire from="(700,670)" to="(700,680)"/>
     <wire from="(1220,1480)" to="(1780,1480)"/>
@@ -651,10 +650,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1850,880)" to="(1900,880)"/>
     <wire from="(2400,2430)" to="(2410,2430)"/>
     <wire from="(4020,3600)" to="(4020,3960)"/>
+    <wire from="(890,2810)" to="(930,2810)"/>
     <wire from="(3830,1600)" to="(3860,1600)"/>
     <wire from="(3830,2560)" to="(3860,2560)"/>
     <wire from="(2100,1610)" to="(2100,2180)"/>
-    <wire from="(930,2760)" to="(930,2780)"/>
     <wire from="(1720,2660)" to="(1780,2660)"/>
     <wire from="(3720,1160)" to="(3760,1160)"/>
     <wire from="(3720,1800)" to="(3760,1800)"/>
@@ -716,6 +715,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1020,3250)" to="(1140,3250)"/>
     <wire from="(3720,1100)" to="(3760,1100)"/>
     <wire from="(3720,1740)" to="(3760,1740)"/>
+    <wire from="(910,2790)" to="(930,2790)"/>
     <wire from="(3850,3790)" to="(3890,3790)"/>
     <wire from="(3790,1230)" to="(3900,1230)"/>
     <wire from="(1860,1830)" to="(1870,1830)"/>
@@ -769,12 +769,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(3940,4050)" to="(3940,4070)"/>
     <wire from="(3790,1170)" to="(3900,1170)"/>
     <wire from="(3750,1300)" to="(3750,1310)"/>
+    <wire from="(910,40)" to="(910,2790)"/>
     <wire from="(3770,3960)" to="(3820,3960)"/>
-    <wire from="(930,2760)" to="(940,2760)"/>
     <wire from="(1720,1540)" to="(1720,2660)"/>
     <wire from="(1660,610)" to="(1660,900)"/>
     <wire from="(3740,3920)" to="(3800,3920)"/>
-    <wire from="(910,40)" to="(910,2800)"/>
     <wire from="(1830,1300)" to="(1830,1390)"/>
     <wire from="(1540,1610)" to="(1650,1610)"/>
     <wire from="(3770,4130)" to="(3780,4130)"/>
@@ -846,6 +845,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(3810,3820)" to="(3920,3820)"/>
     <wire from="(1230,650)" to="(1620,650)"/>
     <wire from="(2300,2160)" to="(2300,2170)"/>
+    <wire from="(900,2780)" to="(930,2780)"/>
+    <wire from="(920,2800)" to="(950,2800)"/>
     <wire from="(3880,3570)" to="(3990,3570)"/>
     <wire from="(3920,1220)" to="(3920,1240)"/>
     <wire from="(3770,3950)" to="(3770,3960)"/>
@@ -989,6 +990,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(3720,970)" to="(3780,970)"/>
     <wire from="(3720,1610)" to="(3780,1610)"/>
     <wire from="(3720,2570)" to="(3780,2570)"/>
+    <wire from="(890,2760)" to="(940,2760)"/>
     <wire from="(1510,1570)" to="(1510,1650)"/>
     <wire from="(3770,3960)" to="(3770,4010)"/>
     <wire from="(3970,760)" to="(3970,1070)"/>
